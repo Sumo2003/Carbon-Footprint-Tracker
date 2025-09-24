@@ -1,14 +1,19 @@
+
 # 🌍 Carbon Footprint Tracker
+
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#-license)
+[![Made with Vue](https://img.shields.io/badge/Made%20with-Vue.js-42b883.svg)](https://vuejs.org/)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-339933.svg)](https://nodejs.org/)
 
 A smart **Carbon Footprint Tracker** that helps individuals and businesses monitor, analyze, and reduce their environmental impact with real-time tracking and actionable insights.
 
 ---
 
 ## ✨ Features
-- 📊 **Real-time Tracking** – Monitor daily activities and estimate carbon emissions instantly.  
-- 📈 **Analytics Dashboard** – Clean visualization of carbon footprint trends.  
-- 💡 **Actionable Insights** – Get meaningful suggestions to reduce environmental impact.  
-- 🔒 **Secure & User-Friendly** – Built with focus on simplicity and privacy.  
+- 📊 **Real-time Tracking** – Monitor daily activities and estimate carbon emissions instantly  
+- 📈 **Analytics Dashboard** – Clean visualization of carbon footprint trends  
+- 💡 **Actionable Insights** – Get meaningful suggestions to reduce environmental impact  
+- 🔒 **Secure & User-Friendly** – Built with focus on simplicity and privacy  
 
 ---
 
@@ -18,18 +23,19 @@ This project is designed to **encourage sustainable living** by making carbon tr
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 - **Frontend:** Vue 3 + Vite  
 - **Backend:** Node.js (Express)  
 - **Languages:** JavaScript, HTML  
 
 ---
 
-# 📦 Project Setup (Vue 3 + Vite)
+## 📦 Project Setup (Vue 3 + Vite)
 
 ### Install dependencies
 ```bash
 npm install
+
 
 ---
 
