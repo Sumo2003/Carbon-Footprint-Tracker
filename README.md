@@ -30,3 +30,16 @@ This project is designed to **encourage sustainable living** by making carbon tr
 ### Install dependencies
 ```bash
 npm install
+
+---
+
+# 📝 Contribution
+Pull requests are welcome!  
+If you’d like to contribute, please fork the repo and submit a PR.
+
+---
+
+# 🔒 License
+This project is shared **for viewing purposes only**.  
+All rights reserved © 2025 **Sumaira**.  
+No part of this project may be copied, modified, or distributed without explicit permission.
