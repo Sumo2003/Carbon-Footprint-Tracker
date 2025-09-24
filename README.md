@@ -1,5 +1,32 @@
-# Vue 3 + Vite
+# 🌍 Carbon Footprint Tracker
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A smart **Carbon Footprint Tracker** that helps individuals and businesses monitor, analyze, and reduce their environmental impact with real-time tracking and actionable insights.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## ✨ Features
+- 📊 **Real-time Tracking** – Monitor daily activities and estimate carbon emissions instantly.  
+- 📈 **Analytics Dashboard** – Clean visualization of carbon footprint trends.  
+- 💡 **Actionable Insights** – Get meaningful suggestions to reduce environmental impact.  
+- 🔒 **Secure & User-Friendly** – Built with focus on simplicity and privacy.  
+
+---
+
+## 🚀 Motivation
+Climate change is one of the biggest challenges of our time.  
+This project is designed to **encourage sustainable living** by making carbon tracking simple and effective.
+
+---
+
+# ⚙️ Tech Stack
+- **Frontend:** Vue 3 + Vite  
+- **Backend:** Node.js (Express)  
+- **Languages:** JavaScript, HTML  
+
+---
+
+# 📦 Project Setup (Vue 3 + Vite)
+
+### Install dependencies
+```bash
+npm install
