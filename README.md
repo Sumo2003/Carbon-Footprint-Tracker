@@ -25,7 +25,9 @@ This project is designed to **encourage sustainable living** by making carbon tr
 
 ## ⚙️ Tech Stack
 - **Frontend:** Vue 3 + Vite  
-- **Backend:** Node.js (Express)  
+- **Backend:** Node.js (Express)
+- frontend/` – Vue.js + Vite based client application  
+- `backend/` – Node.js/Express server handling APIs  
 - **Languages:** JavaScript, HTML  
 
 ---
@@ -38,6 +40,19 @@ npm install
 
 
 ---
+
+## ▶️ How to Run
+
+### Frontend
+cd frontend  
+npm install  
+npm run dev
+
+### Backend
+cd backend  
+npm install  
+npm start
+
 
 # 📝 Contribution
 Pull requests are welcome!  
