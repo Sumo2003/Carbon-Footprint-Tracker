@@ -60,7 +60,7 @@ export default {
     async calculateFootprint() {
       try {
         // 1. Backend API call
-        const response = await axios.post("http://localhost:5000/calculate", {
+        const response = await axios.post("/api/calculate", {
           travelKm: this.travelKm,
           electricityKWh: this.electricityKWh,
           shoppingSpend: this.shoppingSpend,
